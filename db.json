@@ -1,0 +1,123 @@
+{
+    "products":[
+        {   
+            "image": "JS.png",
+            "title": "JavaScript", 
+            "id":1,
+            "description": "BESTSELLER",
+            "category": "Back-End Technologies", 
+            "Course fees in $":199
+        },
+
+        {
+            "image": "HTML.jpeg",
+            "title": "HTML", 
+            "id":2,
+            "category": "Front-End Technologies", 
+            "Course fees in $":149
+        },
+
+        {
+            "image": "CSS.jpeg",
+            "title": "CSS", 
+            "id":3, 
+            "category": "Front-End Technologies",
+            "Course fees in $":129
+        },
+
+        {
+            "image": "ReactJS.jpeg",
+            "title": "REACTJS", 
+            "id":4, 
+            "category": "Front-End Technologies",
+            "description": "Newly added", 
+            "Course fees in $":149
+        },
+
+        {
+            "image": "NodeJS2.png",
+            "title": "NODEJS", 
+            "id":5,
+            "category": "Front-End Technologies",
+            "Course fees in $":129
+        },
+
+        {
+            "image": "FullStackDev1.jpeg",
+            "title": "Full-stack Developer Part 1", 
+            "id":6,
+            "category": "Full-Stack Technologies",
+            "description": "POPULAR",
+            "star": 4, 
+            "Course fees in $":349
+        },
+
+        {
+            "image": "FullStack2.jpeg",
+            "title": "Full-stack Developer Part 2", 
+            "id":7,
+            "category": "Full-Stack Technologies", 
+            "Course fees in $":349
+        },
+
+        {
+            "image": "GIT.png",
+            "title": "GIT AND GIT VERSION CONTROL", 
+            "id":8,
+            "category": "Front-End Technologies", 
+            "Course fees in $":99
+        },
+
+        {
+            "image": "TypeScript.jpeg",
+            "title": "TypeScript", 
+            "id":9, 
+            "description": "Discounted Price",
+            "category": "Front-End Technologies",
+            "Course fees in $":99
+        },
+
+        {
+            "image": "Java.jpeg",
+            "title": "Java", 
+            "id":10,
+            "category": "Back-End Technologies",
+            "description": "BESTSELLER", 
+            "Course fees in $":249
+        },
+
+        {
+            "image": "Python.jpeg",
+            "title": "Python", 
+            "id":11,
+            "category": "Back-End Technologies", 
+            "Course fees in $":249
+        },
+
+        {
+            "image": "AngularJS.png",
+            "title": "AngularJS", 
+            "id":12,
+            "category": "Front-End Technologies", 
+            "Course fees in $":199
+        },
+
+        {
+            "image": "VueJS.png",
+            "title": "Vue.JS", 
+            "id":13,
+            "category": "Front-End Technologies", 
+            "description": "Newly added",
+            "Course fees in $":199
+        },
+
+        {
+            "image": "SpringBoot.jpeg",
+            "title": "SpringBoot", 
+            "id":14,
+            "category": "Front-End Technologies",
+            "Course fees in $":129
+        }
+    ]
+
+}
